@@ -8,4 +8,6 @@
 
 > crete a rapo 
 
-> git
+> Install git
+
+> install vscode
